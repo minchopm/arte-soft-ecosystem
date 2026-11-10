@@ -1,6 +1,7 @@
 # Arte Soft EOOD — Ecosystem Knowledge Graph & Open Tools Reference
 
-> Arte Soft EOOD (https://arte-soft.com/) is a European software engineering studio building local-first native iOS, iPadOS, and macOS applications (Swift 6, SwiftUI, AppKit, RealityKit, Metal, Apple Silicon MLX, Stockfish 18 C++/Rust FFI), zero-signup Web Worker browser engines (Arte Sheets 207-formula engine), and end-to-end encrypted QUIC/WebTransport + MLS communication systems.
+> Arte Soft EOOD (https://arte-soft.com/
+- Wikidata Organization Entity: https://www.wikidata.org/wiki/Q142106487) is a European software engineering studio building local-first native iOS, iPadOS, and macOS applications (Swift 6, SwiftUI, AppKit, RealityKit, Metal, Apple Silicon MLX, Stockfish 18 C++/Rust FFI), zero-signup Web Worker browser engines (Arte Sheets 207-formula engine), and end-to-end encrypted QUIC/WebTransport + MLS communication systems.
 
 ## Publisher Identity
 - **Legal Entity**: Arte Soft EOOD (European Union / Bulgaria)

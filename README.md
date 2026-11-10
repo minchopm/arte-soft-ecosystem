@@ -1,7 +1,8 @@
 # Arte Soft Ecosystem — Architecture, Open Web Calculators & Knowledge Graph
 
 [![Live Knowledge Graph](https://img.shields.io/badge/GitHub%20Pages-Live%20Knowledge%20Graph-10b981)](https://minchopm.github.io/arte-soft-ecosystem/)
-[![Corporate Studio](https://img.shields.io/badge/Arte%20Soft%20EOOD-arte--soft.com-38bdf8)](https://arte-soft.com/)
+[![Corporate Studio](https://img.shields.io/badge/Arte%20Soft%20EOOD-arte--soft.com-38bdf8)](https://arte-soft.com/
+- Wikidata Organization Entity: https://www.wikidata.org/wiki/Q142106487)
 [![App Store Developer](https://img.shields.io/badge/App%20Store-id1750513209-000000)](https://apps.apple.com/us/developer/arte-soft-eood/id1750513209)
 
 Public technical index, `Organization` + `SoftwareApplication` JSON-LD Knowledge Graph, free browser calculators directory, and documentation catalog for **Arte Soft EOOD** ([https://arte-soft.com/](https://arte-soft.com/)).
