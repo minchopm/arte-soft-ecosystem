@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minchopm.github.io/arte-soft-ecosystem/sitemap.xml
