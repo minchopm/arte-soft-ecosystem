@@ -78,3 +78,11 @@
 - [A Mute Button Must Fail Closed: ReplayKit Audio Boundaries](https://artesoft.hashnode.dev/a-mute-button-must-fail-closed-recording-app-and-microphone-audio-with-replaykit)
 - [Downloaded Is Not Selected: Managing Whisper & Qwen Models](https://artesoft.hashnode.dev/downloaded-is-not-selected-managing-whisper-and-qwen-models-in-a-native-voice-app)
 - [Testing Photo + Voice AI on a Multi-Connection Train Timetable](https://artesoft.hashnode.dev/testing-photo-voice-ai-on-a-multi-connection-train-timetable-what-worked-and-what-still-needs-a-human-check)
+
+
+### Reel Studio — Guides, Free Browser Tools & 2026 Comparisons
+- Official Portal: https://reel-studio.arte-soft.com/
+- 196 iOS & macOS Screen Recording Guides: https://reel-studio.arte-soft.com/articles/
+- 12 Free Zero-Upload Browser Creator Tools: https://reel-studio.arte-soft.com/tools/
+- 140 Screen Recorder Comparisons: https://reel-studio.arte-soft.com/compare/
+- Product Hunt: https://www.producthunt.com/products/reel-screen-recorder

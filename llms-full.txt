@@ -35,3 +35,11 @@
 - Wise Eating: https://www.wise-eating.com/llms.txt
 - Arte Sheets: https://sheets.arte-soft.com/llms.txt
 - Brass Pawn: https://brasspawn.com/llms.txt
+
+
+### Reel Studio — Guides, Free Browser Tools & 2026 Comparisons
+- Official Portal: https://reel-studio.arte-soft.com/
+- 196 iOS & macOS Screen Recording Guides: https://reel-studio.arte-soft.com/articles/
+- 12 Free Zero-Upload Browser Creator Tools: https://reel-studio.arte-soft.com/tools/
+- 140 Screen Recorder Comparisons: https://reel-studio.arte-soft.com/compare/
+- Product Hunt: https://www.producthunt.com/products/reel-screen-recorder

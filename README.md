@@ -77,3 +77,11 @@ Public technical index, `Organization` + `SoftwareApplication` JSON-LD Knowledge
 ## Provenance & Scope
 
 Published by **Arte Soft EOOD** (`office@arte-soft.com`, European Union). All documentation repositories provide verifiable public capabilities, operational boundaries, comparison tables, and machine-readable `llms.txt` specifications without exposing proprietary credentials or private user data. Last verified: **2026-11-14**.
+
+
+### Reel Studio — Guides, Free Browser Tools & 2026 Comparisons
+- Official Portal: https://reel-studio.arte-soft.com/
+- 196 iOS & macOS Screen Recording Guides: https://reel-studio.arte-soft.com/articles/
+- 12 Free Zero-Upload Browser Creator Tools: https://reel-studio.arte-soft.com/tools/
+- 140 Screen Recorder Comparisons: https://reel-studio.arte-soft.com/compare/
+- Product Hunt: https://www.producthunt.com/products/reel-screen-recorder
