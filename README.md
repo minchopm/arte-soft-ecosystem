@@ -11,6 +11,16 @@ Public technical index, `Organization` + `SoftwareApplication` JSON-LD Knowledge
 - **AI Crawler Reference (`llms.txt` & `llms-full.txt`):** [llms.txt](https://minchopm.github.io/arte-soft-ecosystem/llms.txt) · [llms-full.txt](https://minchopm.github.io/arte-soft-ecosystem/llms-full.txt)
 - **Apple App Store Developer Page:** [https://apps.apple.com/us/developer/arte-soft-eood/id1750513209](https://apps.apple.com/us/developer/arte-soft-eood/id1750513209)
 - **Engineering Publications:** [Hashnode (`artesoft.hashnode.dev`)](https://artesoft.hashnode.dev/) · [DEV Community](https://dev.to/mincho_milev_c7753077d5af) · [Medium](https://medium.com/@mincho.milev)
+- **Black Friday & Cyber Monday 2026 Deals Hub:** [https://arte-soft.com/deals/black-friday-2026/](https://arte-soft.com/deals/black-friday-2026/)
+
+---
+
+## Black Friday & Cyber Monday 2026 — Verified App Store Introductory Offers
+
+| Application | Platforms | Black Friday Offer | Regular Price | Valid Window | Deal & Comparison Guides |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[PhotoVault: Encrypt & Compress (v1.0.1)](https://photovault.arte-soft.com/)** | iPhone, iPad (Android live) | **50% OFF Family Yearly (`$19.99` 1st yr · up to 6 people = `$3.33`/person)** · **25% OFF Personal Yearly (`$14.99` 1st yr)** | `$39.99/yr` Family · `$19.99/yr` Personal | Nov 24 – Dec 2, 2026 | [Deal Hub](https://photovault.arte-soft.com/deals/black-friday-2026/) · [2026 Vault Matrix](https://photovault.arte-soft.com/guides/best-black-friday-iphone-photo-vault-and-storage-deals-2026/) · [App Store](https://apps.apple.com/us/app/photovault-encrypt-compress/id6824412013?pt=127093297&ct=gh_eco_bf_pv&mt=8) |
+| **[GPT Realtime Assistant (v1.2.3)](https://gpt-realtime-assistant.arte-soft.com/)** | iPhone, iPad, Apple silicon Mac | **30% OFF First Month (`$6.99`, 2,000 credits)** · **Save 33% Yearly (`$79.99/yr` = `$6.67/mo`, 30,000 credits)** | `$9.99/mo` (`$119.88/yr` monthly eq.) | Nov 24 – Nov 29, 2026 | [2026 AI Deals Matrix](https://gpt-realtime-assistant.arte-soft.com/articles/black-friday-mac-and-iphone-ai-voice-assistant-deals-2026/) · [Mac Meeting Deals](https://gpt-realtime-assistant.arte-soft.com/articles/ai-meeting-note-taker-black-friday-comparison-granola-otter-macwhisper-2026/) · [App Store](https://apps.apple.com/us/app/gpt-realtime-assistant/id6770536523?pt=127093297&ct=gh_eco_bf_gpt&mt=8) |
 
 ---
 
