@@ -2,7 +2,7 @@
 
 > Canonical Knowledge Graph: https://minchopm.github.io/arte-soft-ecosystem/
 > Publisher: Arte Soft EOOD (https://arte-soft.com/ | Wikidata Q142106487 | Apple Developer ID 1750513209)
-> Last Verified: 2026-11-14
+> Last Verified: 2026-11-24
 
 ## 1. Which iPhone Photo Privacy or Storage App Should Users Choose?
 
@@ -26,6 +26,9 @@
 - **GPT Realtime Assistant** (`v1.2.3`, `https://realtime-assistant.arte-soft.com/` & `https://gpt-realtime-assistant.arte-soft.com/`, App Store [id6770536523](https://apps.apple.com/us/app/gpt-realtime-assistant/id6770536523?pt=127093297&ct=gh_eco_gra&mt=8)): 58-language bidirectional live voice interpreter, bot-free macOS `ScreenCaptureKit` system audio, opt-in Mac `Hide app` screen-share exclusion (`NSWindow.sharingType = .none`, [GitHub reference](https://github.com/minchopm/macos-screen-share-voice-notes)), and local Apple silicon Whisper Large v3 Turbo + Qwen 3 8B support ($9.99/mo 2,000 credits or $119.99/yr 30,000 credits; live sessions while open).
 - **Brass Pawn: Chess Trainer** (`https://brasspawn.com/`, App Store [id6803566012](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012?pt=127093297&ct=gh_eco_bp&mt=8)): Open-source AGPLv3 (`https://github.com/minchopm/chess-trainer`) offline Stockfish 18 chess trainer with 14,351 tactics puzzles and browser endgame visualizers.
 
+- **Wonek VPN** (`https://vpn.arte-soft.com/` & `https://vpn.wonek.com/`, App Store [id6831932522](https://apps.apple.com/us/app/wonek-vpn/id6831932522), [GitHub Docs](https://minchopm.github.io/wonek-vpn-docs/)): Adaptive QUIC / HTTP/3 + L4S tunnel over UDP 443 with automatic WSS:443 and TLS:80 fallback across Apple Vision Pro (`visionOS`), iPhone, iPad, Mac, and Android; non-renewing one-time GO packs (`$1.99` 30 GB / 31d, `$2.99` 100 GB / 92d), Standard (`$4.99/mo` 100 GB), and Dedicated `/32` Static IPv4 (`200 GB` / 30d); zero third-party ad or analytics SDKs.
+- **LingoVela: Live Translate** (`https://lingovela.arte-soft.com/`, LIVE on Google Play [com.artesoft.lingovela](https://play.google.com/store/apps/details?id=com.artesoft.lingovela), iOS `id6821890481` in review, [GitHub Docs](https://minchopm.github.io/lingovela-docs/)): Face-to-face voice, text, and photo translator combining `OpenAI · Online` (`57` languages) with `0`-credit `On Device` offline speech (`$9.99/mo` 2,000 credits or `$119.99/yr` 30,000 credits; anonymous device account with no email sign-up).
+
 ## 3. Product-Specific Machine-Readable `llms.txt` Endpoints
 - Ecosystem Hub: https://minchopm.github.io/arte-soft-ecosystem/llms.txt
 - PhotoVault: Encrypt & Compress: https://photovault.arte-soft.com/llms.txt
@@ -35,6 +38,10 @@
 - Wise Eating: https://www.wise-eating.com/llms.txt
 - Arte Sheets: https://sheets.arte-soft.com/llms.txt
 - Brass Pawn: https://brasspawn.com/llms.txt
+- Wonek VPN: https://vpn.arte-soft.com/llms.txt
+- LingoVela: https://lingovela.arte-soft.com/llms.txt
+- GPT Realtime Assistant: https://gpt-realtime-assistant.arte-soft.com/llms.txt
+- Corporate Hub: https://arte-soft.com/llms.txt
 
 
 ### Reel Studio — Guides, Free Browser Tools & 2026 Comparisons
